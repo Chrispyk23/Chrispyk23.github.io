@@ -11,8 +11,8 @@ article, aside, footer, header, main, nav, section {
 }
 
 .banner {
-  background-color: #ff0000;
-  color: white;
+  background-color: #2b00ff;
+  color: rgb(14, 12, 12);
   padding: 10px 20px;
 }
 
@@ -20,7 +20,7 @@ body {
   width: 1000px;
   margin-left: auto;
   margin-right: auto;
-  background-color: #f0f0f0;
+  background-color: #f09707;
   font-family: Helvetica, Arial, sans-serif;
   font-size: 15px;
 }
@@ -32,7 +32,7 @@ nav {
 }
 
 li a {
-  color: white;
+  color: rgb(74, 12, 230);
 }
 
 li {
@@ -63,7 +63,7 @@ main {
 }
 
 aside {
-  background-color: #bbbbbb;
+  background-color: #3d11de;
   width: 300px;
   float: right;
   padding: 20px;
@@ -73,6 +73,6 @@ aside {
 footer {
   clear: both;
   background-color: #000000;
-  color: white;
+  color: rgb(27, 12, 236);
   padding: 5px 20px;
 }
